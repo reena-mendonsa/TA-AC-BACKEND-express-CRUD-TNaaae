@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    color: rgb(79, 83, 104);
+  }
+  h1{
+    text-align: center;
+  }
+  a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color: burlywood;
+    text-align: right;
+  }
